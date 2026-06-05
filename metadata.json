@@ -1,0 +1,6 @@
+{
+  "name": "VanetSpoofing",
+  "description": "An advanced SNI Spoofing tool, local connection router, and handshake validator built with modern Material You design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
